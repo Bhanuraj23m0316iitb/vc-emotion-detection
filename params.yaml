@@ -1,0 +1,10 @@
+# the content of this file is written by developer or user not by code or program
+data_ingestion:
+  test_size: 0.3
+
+feature_engineering:
+  max_features: 300
+
+model_building:
+  n_estimators: 250
+  learning_rate: 0.1
